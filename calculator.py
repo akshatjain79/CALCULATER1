@@ -1,3 +1,2 @@
-print("Hello Baby")
+print("hello")
 
-#bahut sara code
